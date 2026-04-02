@@ -20,7 +20,7 @@ public class CalcSeries {
 	}
 	
 	public int sumNaturalNos(int n) {
-		int sum =n * (n + 1)/2;
+		int sum =n * (n + 2)/2; //change 1 to 2
 		
 		return sum;
 	}
